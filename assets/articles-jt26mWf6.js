@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-D3jfb0Ew.js";import{d as t}from"./primitives-CGDPX8p-.js";import{n}from"./Articles-vMDGZcxy.js";var r=e();t((0,r.jsx)(n,{}));
